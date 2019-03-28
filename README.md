@@ -1,2 +1,2 @@
 # uPipe-installer
-安装文件
+installer file
